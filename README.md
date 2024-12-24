@@ -2,7 +2,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-devalexanderdaza-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/devalexanderdaza/)
 [![GitHub followers](https://img.shields.io/github/followers/devalexanderdaza?label=Follow&style=social)](https://github.com/devalexanderdaza)
-[![Wakatime](https://wakatime.com/badge/user/devalexanderdaza.svg)](https://wakatime.com/@devalexanderdaza)
+[![Wakatime](https://wakatime.com/badge/user/8ee16a29-0c86-409c-94bf-f86e435e8894.svg)](https://wakatime.com/@devalexanderdaza)
 
 ## 👨‍💻 About Me
 
