@@ -39,6 +39,19 @@ I'm a passionate software developer focused on creating innovative and sustainab
 ### 📊 GitHub & WakaTime Stats
 
 <!--START_SECTION:waka-->
+
+```txt
+From: 29 October 2021 - To: 24 December 2024
+
+Total Time: 1,832 hrs 55 mins
+
+TypeScript                 1,143 hrs 24 mins>>>>>>>>>>>>>>>>---------   62.38 %
+JSON                       140 hrs 59 mins >>-----------------------   07.69 %
+JavaScript                 130 hrs 18 mins >>-----------------------   07.11 %
+PHP                        113 hrs 31 mins >>-----------------------   06.19 %
+HTML                       62 hrs 57 mins  >------------------------   03.43 %
+```
+
 <!--END_SECTION:waka-->
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devalexanderdaza&show_icons=true&theme=dark)
