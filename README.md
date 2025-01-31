@@ -41,7 +41,7 @@ I'm a passionate software developer focused on creating innovative and sustainab
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2021 - To: 29 January 2025
+From: 29 October 2021 - To: 30 January 2025
 
 Total Time: 1,885 hrs 12 mins
 
