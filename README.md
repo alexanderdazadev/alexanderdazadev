@@ -41,15 +41,15 @@ I'm a passionate software developer focused on creating innovative and sustainab
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 October 2021 - To: 09 June 2025
+From: 29 October 2021 - To: 10 June 2025
 
-Total Time: 2,130 hrs 50 mins
+Total Time: 2,139 hrs 50 mins
 
-TypeScript                 1,247 hrs 4 mins>>>>>>>>>>>>>>>----------   58.53 %
-JavaScript                 169 hrs 52 mins >>-----------------------   07.97 %
-JSON                       165 hrs 21 mins >>-----------------------   07.76 %
-PHP                        144 hrs 44 mins >>-----------------------   06.79 %
-HTML                       72 hrs 52 mins  >------------------------   03.42 %
+TypeScript                 1,253 hrs 9 mins>>>>>>>>>>>>>>>----------   58.56 %
+JavaScript                 169 hrs 53 mins >>-----------------------   07.94 %
+JSON                       166 hrs 25 mins >>-----------------------   07.78 %
+PHP                        145 hrs 27 mins >>-----------------------   06.80 %
+HTML                       73 hrs 1 min    >------------------------   03.41 %
 ```
 
 <!--END_SECTION:waka-->
